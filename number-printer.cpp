@@ -1,6 +1,6 @@
 #include  <stdio.h>
 int  main (){
 int  number = 100;
-printf("%n", number );
+printf("%c", number );
 return  0;
 }
